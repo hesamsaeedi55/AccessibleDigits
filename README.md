@@ -4,3 +4,6 @@ Official GitHub repository of AccessibleDigits iOS application crafted to empowe
 
 # Screen Record of Input Gestures, Aprroving Inserted Numbers, Delete Function, and Auditory Feedback.
 
+
+https://github.com/hesamsaeedi55/AccessibleDigits/assets/118046088/9962e725-75d5-4ed5-9b15-f6c4f71e2db6
+
