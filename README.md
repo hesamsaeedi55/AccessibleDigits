@@ -74,9 +74,6 @@ The development roadmap includes ongoing improvements and customization options 
 •	Integration with iOS accessibility settings for a personalized user experience.
 
 
-![image](https://github.com/hesamsaeedi55/AccessibleDigits/assets/118046088/24abd3b4-8778-4dd9-8664-318a9fe5e57d)
-
-
 
 
 # Screen Record of Input Gestures, Aprroving Inserted Numbers, Delete Function, and Auditory Feedback.
